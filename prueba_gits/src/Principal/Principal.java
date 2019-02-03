@@ -10,6 +10,7 @@ public class Principal {
 		System.out.println("O mejor 5");
 		System.out.println("O mejor 4");
 		System.out.println("Quizas mejor 6");
+		System.out.println("Igual mejor 7");
 
 	}
 
