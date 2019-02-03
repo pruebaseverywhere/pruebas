@@ -5,7 +5,8 @@ public class Principal {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Es preferible reir que llorar");
-		System.out.println("Caguen dos");
+		System.out.println("Caguen dos, tres, cuatro");
+		System.out.println("Prefiero tres");
 	}
 
 }
