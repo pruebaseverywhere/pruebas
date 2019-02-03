@@ -7,9 +7,7 @@ public class Principal {
 		System.out.println("Es preferible reir que llorar");
 		System.out.println("Caguen dos, tres, cuatro");
 		System.out.println("Prefiero tres");
-
 		System.out.println("O mejor 5");
-
 		System.out.println("O mejor 4");
 
 	}
