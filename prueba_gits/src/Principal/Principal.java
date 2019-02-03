@@ -11,7 +11,7 @@ public class Principal {
 		System.out.println("O mejor 4");
 		System.out.println("Quizas mejor 6");
 		System.out.println("Igual mejor 8");
-
+		System.out.println("Igual mejor 7");
 	}
 
 }
